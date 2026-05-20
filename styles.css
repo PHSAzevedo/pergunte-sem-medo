@@ -671,6 +671,7 @@ h3 {
 
 .offer-list strong {
   color: var(--white);
+  margin-right: 0.25em;
 }
 
 .offer-list li::before {
