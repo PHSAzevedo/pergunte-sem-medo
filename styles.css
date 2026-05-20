@@ -669,6 +669,11 @@ h3 {
   color: #edf5ff;
 }
 
+.offer-list li > span {
+  display: block;
+  min-width: 0;
+}
+
 .offer-list strong {
   color: var(--white);
   margin-right: 0.25em;
@@ -875,6 +880,9 @@ details p {
 .sticky-cta strong {
   display: block;
   color: var(--navy);
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.05;
 }
 
 .sticky-cta .button {
