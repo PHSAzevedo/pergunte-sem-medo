@@ -1,0 +1,23 @@
+.DS_Store
+
+# Arquivos de trabalho e revisão que não são necessários na landing publicada.
+qa/
+scripts/
+output/
+*.pdf
+*.pyc
+__pycache__/
+
+# Assets originais grandes; a página usa as versões otimizadas em /assets.
+Capa Final.png
+DEPOIMENTOS.png
+GERALDO.png
+ICON FÁCIL IA.png
+IRACY.png
+LOGO FÁCIL IA.png
+Landing page 001.webp
+Livro Mockup.png
+NEUZA.png
+ref01.webp
+ref02.webp
+ref03.webp
